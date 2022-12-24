@@ -1,3 +1,2 @@
 This is my current research into whether or not the Cobb-Douglas production function has useful baseball applications. I outline everything in my research paper
-including the methodologies I will use along with the brackground and reasoning behind why I believe this may be useful. I am currently on the data collection stage as
-of 12/3/2022. I will keep this file updated with where I am currently at in the process. I started this project 11/30/2022.
+including the methodologies I will use along with the brackground and reasoning behind why I believe this may be useful. I have perfromed the regression analysis, and I am currently documenting my results. I would like to be finished with this portion of the project soon, and begin on the next steps outlined in my research paper after the new year. This is as of 12/24/2022
